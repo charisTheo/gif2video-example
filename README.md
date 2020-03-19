@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <p align="center">
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/charisTheo/gif2video">
   <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
 </a>
 
